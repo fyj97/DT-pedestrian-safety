@@ -61,6 +61,8 @@ python combined_roc_figure.py
 **Output:**
 - `combined_roc_figure.png`: High-resolution (400 DPI) figure showing both ROC curves
 
+![Combined ROC Curves](combined_roc_figure.png)
+
 ## Data Files
 
 ### `mqtt_messages.txt`
